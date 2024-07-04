@@ -1,7 +1,7 @@
 # Workshop1
 CodersLab Workshop 1
 
-Stworzebue programu konsolowego do zarządzania zadaniami: Tasks.
+Stworzenie programu konsolowego do zarządzania zadaniami: Tasks.
 Dane do zasilenia programu będą przechowywane w pliku tekstowym w formacie CSV.
 Będą one w następującym formacie:
 
